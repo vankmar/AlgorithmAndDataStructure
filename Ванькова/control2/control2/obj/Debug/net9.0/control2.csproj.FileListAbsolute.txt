@@ -1,0 +1,14 @@
+D:\PROG\110b\Ванькова\control2\control2\bin\Debug\net9.0\control2.exe
+D:\PROG\110b\Ванькова\control2\control2\bin\Debug\net9.0\control2.deps.json
+D:\PROG\110b\Ванькова\control2\control2\bin\Debug\net9.0\control2.runtimeconfig.json
+D:\PROG\110b\Ванькова\control2\control2\bin\Debug\net9.0\control2.dll
+D:\PROG\110b\Ванькова\control2\control2\bin\Debug\net9.0\control2.pdb
+D:\PROG\110b\Ванькова\control2\control2\obj\Debug\net9.0\control2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\110b\Ванькова\control2\control2\obj\Debug\net9.0\control2.AssemblyInfoInputs.cache
+D:\PROG\110b\Ванькова\control2\control2\obj\Debug\net9.0\control2.AssemblyInfo.cs
+D:\PROG\110b\Ванькова\control2\control2\obj\Debug\net9.0\control2.csproj.CoreCompileInputs.cache
+D:\PROG\110b\Ванькова\control2\control2\obj\Debug\net9.0\control2.dll
+D:\PROG\110b\Ванькова\control2\control2\obj\Debug\net9.0\refint\control2.dll
+D:\PROG\110b\Ванькова\control2\control2\obj\Debug\net9.0\control2.pdb
+D:\PROG\110b\Ванькова\control2\control2\obj\Debug\net9.0\control2.genruntimeconfig.cache
+D:\PROG\110b\Ванькова\control2\control2\obj\Debug\net9.0\ref\control2.dll

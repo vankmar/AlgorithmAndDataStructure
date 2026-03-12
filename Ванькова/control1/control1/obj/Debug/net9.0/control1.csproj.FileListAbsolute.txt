@@ -1,0 +1,14 @@
+D:\PROG\110b\Ванькова\control1\control1\bin\Debug\net9.0\control1.exe
+D:\PROG\110b\Ванькова\control1\control1\bin\Debug\net9.0\control1.deps.json
+D:\PROG\110b\Ванькова\control1\control1\bin\Debug\net9.0\control1.runtimeconfig.json
+D:\PROG\110b\Ванькова\control1\control1\bin\Debug\net9.0\control1.dll
+D:\PROG\110b\Ванькова\control1\control1\bin\Debug\net9.0\control1.pdb
+D:\PROG\110b\Ванькова\control1\control1\obj\Debug\net9.0\control1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\110b\Ванькова\control1\control1\obj\Debug\net9.0\control1.AssemblyInfoInputs.cache
+D:\PROG\110b\Ванькова\control1\control1\obj\Debug\net9.0\control1.AssemblyInfo.cs
+D:\PROG\110b\Ванькова\control1\control1\obj\Debug\net9.0\control1.csproj.CoreCompileInputs.cache
+D:\PROG\110b\Ванькова\control1\control1\obj\Debug\net9.0\control1.dll
+D:\PROG\110b\Ванькова\control1\control1\obj\Debug\net9.0\refint\control1.dll
+D:\PROG\110b\Ванькова\control1\control1\obj\Debug\net9.0\control1.pdb
+D:\PROG\110b\Ванькова\control1\control1\obj\Debug\net9.0\control1.genruntimeconfig.cache
+D:\PROG\110b\Ванькова\control1\control1\obj\Debug\net9.0\ref\control1.dll
